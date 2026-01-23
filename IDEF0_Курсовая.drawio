@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.4">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.0 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36" version="29.3.0">
   <diagram name="Страница-1" id="BZsVXVPQuunrGTP68dwN">
-    <mxGraphModel dx="1753" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="2002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jK34y8WqS_ZhFdv706t6-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Веб-сайт музыкального магазина" vertex="1">
+        <mxCell id="jK34y8WqS_ZhFdv706t6-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Покупка музыкального инструмента" vertex="1">
           <mxGeometry height="200" width="300" x="320" y="240" as="geometry" />
         </mxCell>
         <mxCell id="jK34y8WqS_ZhFdv706t6-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" value="">
